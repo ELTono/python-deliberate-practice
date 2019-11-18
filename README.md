@@ -105,8 +105,20 @@ I consider that the best way to hone my skills is by doing little projects that 
     * [Begginers guide to kickass README]
     * [Enforcing Single Responsibility Principle]
     
-    
+## Reference
 
+* [Python Tutor Visualizer]
+* [Python For Data Analysis]
+* [Stanford CS 41: Python]
+* [Berkeley CS 88: Python Data Structure]
+* [Harvard CS 109: Data Science]
+* [Berkeley BIDS Python bootcamp]
+* [Josh Bloom's Python Computing For Data Science]
+* [Writing Idiomatic Python - Jeff Knupp]
+* [Another Tutorial On How To Write Pythonic Code]
+* [Pandas Cookbook]
+* [Udemy course]
+    
 
 [Teach Yourself Programming in 10 years]:http://norvig.com/21-days.html
 [Plateau of Productivity]:http://pbpython.com/plateau-of-productivity.html
