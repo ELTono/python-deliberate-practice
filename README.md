@@ -4,11 +4,11 @@ As a part of my journey in becoming a better full stack data scientist , I decid
 ## Deliberate Practice
 I consider that the best way to hone my skills is by doing little projects that help me to put in practice whatever theory I read about python. I can combine a mix of self-activities with activities in my current job. 
 
-* __Identify the Top Performers__: Given that in my current job I am the first data scientist, I cannot have a proper role model for ML but maybe the data engineer can help me check my general python program. Also meetups should be a good starting to meet more senior people in data science.
+* __Identify the Top Performers__: For this part I have been attending regular machine learning meetups to meet top performers in different companies. For example, Bertil Hatt. Also to be more involved in following top kaggle competitors and their blogs.
 
-* __Targeted practice__: If I force myself to do most of the plots in dashboards using matplot lib instead of the built-in graphs I would be able to get the practice and get better at making good plots.
+* __Targeted practice__: If I force myself to do most of the plots in dashboards using matplot lib instead of the built-in graphs I would be able to get the practice and get better at making good plots. At the same, every time I do a script or a new analysis I will spend more time in thinking in ways to make it more efficient and pythonic so I can keep polishing my skills on this. So far, I have scheduled 2 hours each day to practice.
 
-* __Immediate Feedbacks__: I think for this part it is going to be hard given I cannot tell people to check my pandas code. The best I can do is to start working with the DE to implement some of my python ideas into tables in our database.
+* __Immediate Feedbacks__: I think for this part it is going to be hard given I cannot tell people to check my pandas code every single time or if I am working in a different project. The best I can do is to start working with the DE to implement some of my python ideas into tables in our database, so all the departments can actually see my final product.
 
 ## Performance goals
 * __[Immediate]__ Learn about the best ways to write pythonic code.
