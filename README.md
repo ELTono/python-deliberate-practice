@@ -105,6 +105,9 @@ I consider that the best way to hone my skills is by doing little projects that 
     * [Begginers guide to kickass README]
     * [Enforcing Single Responsibility Principle]
     
+* **General public speaking skills**
+   * [Toatmasters]
+    
 ## Reference
 
 * [Python Tutor Visualizer]
@@ -210,6 +213,7 @@ I consider that the best way to hone my skills is by doing little projects that 
 [Josh Bloom's Python Computing For Data Science]:https://github.com/profjsb/python-seminar
 [Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
 [Udemy course]:https://www.udemy.com/learning-python-for-data-analysis-and-visualization/?ccManual=&couponCode=DEAL19
+[Toatmasters]:https://www.toastmasters.org/Find-a-Club/05987771-central-london-toastmasters
 
 
 
